@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.exe
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.deps.json
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.json
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.dev.json
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.dll
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\ref\StringReplace.dll
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.pdb
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfo.cs
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.dll
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\ref\StringReplace.dll
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.pdb
+C:\Users\sande\source\repos\StringsAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.genruntimeconfig.cache
